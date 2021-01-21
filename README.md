@@ -1,7 +1,7 @@
 # Decision-Tree
 Pure Python implementation of Decision Tree  algorithm. \
 accepts pandas DataFrame. \
-API is similar to scikit-learn. \
+API is similar to scikit-learn. 
 ### Example
 
 from DecisionTree import DecisionTree \
