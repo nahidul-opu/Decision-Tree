@@ -7,5 +7,5 @@ API is similar to scikit-learn. \
 from DecisionTree import DecisionTree \
 dtf=DecisionTree() \
 dtf.fit(x_train,y_train) \
-y_pred = dtf.predict(x_train.probability=False) \
-df.print() #print the tree \
+y_pred = dtf.predict(x_train,probability=False) \
+df.print() #print the tree 
